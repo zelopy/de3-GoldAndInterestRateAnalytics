@@ -10,7 +10,6 @@ import json
 
 def get_interest_rate_data():
     service_name = 'StatisticSearch'
-    # api_key = 'A46A1VU79QFD4G5QFL6F'
     start_no = '1'
     end_no = '10'
     table_code = '817Y002'
